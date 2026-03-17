@@ -11,7 +11,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/abhirupdas99/global-data-professionals-analysis-using-Power-BI/blob/main/Screenshots/Dashboard%20overview.jpg)
 
 ---
 
